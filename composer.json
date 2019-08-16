@@ -1,0 +1,16 @@
+{
+    "name": "continuity/zebra-printer",
+    "description": "Zebra Printer Support",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Michal Drobny",
+            "email": "michal.drobny@continuity.sk"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+    	"php": "7.0.*"
+    }
+}
